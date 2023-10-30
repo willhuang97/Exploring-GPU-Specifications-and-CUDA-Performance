@@ -2,7 +2,7 @@
 
 
 <p align="center" width="100%">
-    <img width="33%" src="C:\Users\willh\iCloudDrive\Data Analyst Projects\GPU CUDA\datasets\Nvidia_CUDA.svg"> 
+    <img width="33%" src="C:\Users\willh\iCloudDrive\Data Analyst Projects\GPU CUDA\images\Nvidia_CUDA.png"> 
 </p>
 
 <div align="center">Screengrab from https://logos.fandom.com/wiki/Nvidia_CUDA.</div>
@@ -23,7 +23,7 @@ _Data files_<br>
 * [GPU_Prices.csv](https://www.kaggle.com/datasets/alanjo/gpu-benchmarks) - Dataset containing GPU release MSRP
 * [gpus_v2.csv](https://www.kaggle.com/datasets/alanjo/graphics-card-full-specs) - Dataset containing additional GPU Specifications 
 
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Analysis
 
