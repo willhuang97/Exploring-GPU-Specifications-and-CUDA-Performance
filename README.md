@@ -1,9 +1,7 @@
 # Exploring GPU Specification, CUDA Performance and Value Proposition
 
 
-<p align="center" width="100%">
-    <img width="33%" src="C:\Users\willh\iCloudDrive\Data Analyst Projects\GPU CUDA\images\Nvidia_CUDA.png"> 
-</p>
+![](images/Nvidia_CUDA.png)
 
 <div align="center">Screengrab from https://logos.fandom.com/wiki/Nvidia_CUDA.</div>
 
