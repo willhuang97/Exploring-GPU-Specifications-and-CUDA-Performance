@@ -1,9 +1,9 @@
 # Exploring GPU Specification, CUDA Performance and Value Proposition
 
+<img src="images/Nvidia_CUDA.png" width="300" height="120" alt="Center">
 
-![](images/Nvidia_CUDA.png)
 
-<div align="center">Screengrab from https://logos.fandom.com/wiki/Nvidia_CUDA.</div>
+Screengrab from https://logos.fandom.com/wiki/Nvidia_CUDA.
 
 ## Project description
  
